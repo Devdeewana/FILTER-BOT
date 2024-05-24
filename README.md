@@ -18,7 +18,7 @@
 - [x] Premium And Refer On / Off 
 - [x] Stream Feature On / Off 
 - [x] Url Shortner On / Off Feature 
-- [x] Pm Search On / Off (Spell Check Not Work)
+- [x] Pm Search On / Off 
 - [x] Custom Stream
 - [x] Stream Feature With Many Player Support 
 - [x] Language & Season & Quality & Episode Choose Option
@@ -30,6 +30,8 @@
 - [x] Bot Pm File Auto Delete 
 
 Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+
+### How To Deploy : [Video Tutorial](https://youtu.be/J5tiWdc_AWM)
 
 ## Commands
 ```
